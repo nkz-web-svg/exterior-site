@@ -484,6 +484,28 @@ body {
         font-size: 14px;
     }
 
+    .block__prefecture-cities {
+        white-space: normal;
+        word-break: break-word;
+        line-height: 1.6;
+        font-size: 14px;
+    }
+
+    .contact__title {
+        font-size: 26px;
+        font-weight: bold;
+    }.block__prefecture-cities {
+        white-space: normal;
+        word-break: break-word;
+        line-height: 1.6;
+        font-size: 14px;
+    }
+
+    .contact__title {
+        font-size: 26px;
+        font-weight: bold;
+    }
+
     /* フッター */
     .footer__section {
         flex-direction: column;
