@@ -176,9 +176,10 @@ body {
 }
 
 .voice {
-    background-color: #ffedd8;
-    padding: 30px 0 30px
-}
+    background-image: url("images/haikei.svg");
+    background-size: cover;
+    background-position: center;
+} 
 
 .voice__title {
     font-weight: bold;
