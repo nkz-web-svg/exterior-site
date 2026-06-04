@@ -173,10 +173,10 @@ body {
 
 #voice {
     scroll-margin-top: 90px;
+     background-image: url("images/haikei.png");
 }
 
 .voice {
-    background-image: url("images/haikei.png");
     background-size: cover;
     background-position: center;
 } 
